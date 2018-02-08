@@ -1,0 +1,6 @@
+Utiliser des resaux de neurones type RNN avec un embedding pour gerer la structure du vocabulaire (mis a jour en au besoin a chaque iteration)
+
+Quelle structure de reseau de neurones utiliser ?
+- Incepteption
+- Xception ?
+=> regarder l'etat de l'art
