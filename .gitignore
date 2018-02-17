@@ -2,5 +2,6 @@
 .ipynb_checkpoints/
 __pycache__/
 GPU/
+DATA/BDD_medicaments/
 **/*.pyc
 **/*.py~
