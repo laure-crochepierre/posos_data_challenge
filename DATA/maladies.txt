@@ -1,0 +1,664 @@
+abcès
+aboulie
+acné
+acouphène
+aérocolie
+aérophagie
+alopécie
+allaitement
+allergies
+aménorrhée
+ampoule
+amygdalite
+anémie
+angine
+anorexie
+anxiété
+aphtes
+artériosclérose
+artérite
+arthrite
+arthrose
+arythmie
+asthénie
+asthme
+atonie
+ballonnements
+bronchite
+brûlures
+brûlure
+candidose
+cathares
+cellulite
+cheveux
+cholestérol
+coliques
+colites
+conjonctivite
+constipation
+contusions
+coqueluche
+cor
+couperose
+coupure
+courbatures
+crampes
+cystite
+dépression
+dermatose
+diabète
+diarrhée
+digestion
+durillon
+dysménorrhée
+dyspepsie
+ecchymose
+eczéma
+égratignure
+emphysème
+enrouement
+entérite
+entérocolite
+entorse
+énurésie
+escarre
+fatigue
+fièvre
+flatulences
+foulure
+frigidité
+furoncle
+gale
+gastrite
+gastro-entérite
+gingivite
+goutte
+grippe
+grossesse
+hémorroïdes
+hépatite
+herpès
+hoquet
+hypertension
+hyperthyroïdie
+hypotension
+hypothyroïdie
+impétigo
+impuissance
+indigestion
+infection
+insomnie
+laryngite
+lumbago
+maux
+mal
+manque
+mélancolie
+ménopause
+menstruations
+migraine
+myalgie
+mycose
+nausées
+néphrite
+nervosité
+névralgie
+névrite
+obésité
+orgelet
+ostéoporose
+otite
+palpitations
+paludisme
+pellicules
+pharyngite
+phlébite
+piqûres
+plaie
+pleurésie
+pneumonie
+rhumatoïde
+polyarthrite
+poux
+prostatite
+prurits
+psoriasis
+rétention
+rhinite
+rhumatismales
+rhumatisme
+rhume
+rides
+sclérose
+sciatique
+séborrhée
+sinusite
+spasmes
+spasmophilie
+stomatite
+stress
+surmenage
+teignes
+tendinite
+ténia
+tension
+toux
+thrombose
+ulcères
+urticaire
+vaginite
+varices
+vergetures
+verrues
+vertige
+verminose
+vers
+vomissements
+zona
+coqueluche
+diphtérie
+oreillons
+poliomyélite
+rougeole
+rubéole
+tétanos
+infection
+syphilis
+sida
+condyloma
+hépatite
+botulisme
+gastroentérite
+fièvre
+autres
+leptospirose
+listériose
+trichinose
+anthrax
+légionellose
+méningite
+sars
+tuberculose
+brucellose
+ehrlichiose
+infection
+rage
+psittacose
+choléra
+dengue
+lèpre
+paludisme-malaria
+peste
+tularémie
+variole
+creutzfeld-jacob
+scarlatine
+cytomégalovirus
+toxoplasmose
+trachome
+pustule
+encéphalite
+typhus
+abcès
+acné
+acromégalie
+adénome
+aérophagie 
+alcoolisme
+algodystrophie
+allergie  
+alopécie
+alzheimer
+amnésie
+andropause
+anémie
+anévrisme
+angine
+angiome
+anorexie
+anxiété
+aphasie
+aphtes
+apnée du sommeil
+aponévrosite
+appendicite
+artérite
+arthrite
+arthrose 
+asthme
+astigmatisme 
+athérosclérose
+attaque
+autisme
+avc 
+accident vasculaire
+basedow
+binge eating disorder
+bed
+blennorragie
+basedow
+blues
+bore-out
+boulimie
+bouton de fièvre
+bronchectasie
+bronchiolite
+bronchite
+bronchopneumopathie
+bruxisme
+brûlure
+burn-out
+calcul urinaire
+calculs biliaires
+calculs rénaux
+cancer bronchique
+cancer de l'estomac
+cancer de l'utérus
+cancer de la gorge
+cancer de la peau
+cancer de la plèvre
+cancer de la prostate
+cancer de la thyroïde
+cancer de la vessie
+cancer de l’ovaire
+cancer de l’œsophage
+cancer des os
+cancer du col de l’utérus
+cancer du colon
+cancer du foie
+cancer du pancréas
+cancer du rectum
+cancer du rein
+cancer du sang
+cancer du sein
+ onchocercose
+cancer du testicule
+cancer du vagin
+cardiomyopathie
+carie dentaire
+cataracte
+cécité des rivières 
+chalazion
+charcot
+chikungunya
+choc anaphylactique 
+cholécystite
+choléra
+cholestase gravidique
+cholestéatome
+chondrocalcinose
+cicatrice cheloïde
+cirrhose du foie
+coccygodynie
+colite spasmodique
+colite ulcéreuse
+conjonctivite allergique
+conjonctivites
+coqueluche
+cor au pied
+coup de chaleur
+coup du lapin
+crise d'angoisse
+crohn
+cushing
+cyclothymie
+cystite
+daltonisme
+déchirure musculaire
+décollement de rétine
+dmla
+dégénérescence maculaire liée à l’âge 
+dengue
+dénutrition
+dépression
+dépression saisonnière
+dérèglement hormonal
+dermatite atopique 
+dermatite séborrhéique
+déshydratation
+diabète 
+diabète de type 1
+diabète insipide
+diphtérie
+discopathie
+dissection aortique
+diverticulite
+dupuytren
+durillons
+dyscalculie
+dysgraphie
+dyslexie
+dysorthographie
+dyspraxie
+dystonie
+dystrophie musculaire de duchenne
+eczéma
+eczéma chez le bébé
+eczéma chronique 
+edwards, syndrome
+embolie pulmonaire
+emphysème pulmonaire
+endométriose
+entorse
+epididymite
+epilepsie
+epilepsie chez l'enfant
+epine calcanéenne
+erosion dentaire
+erotomanie
+escarre
+fausse couche
+fausse route du nourrisson
+fibrillation atriale
+fibrome
+fibromyalgie
+fibrose kystique
+fibrose pulmonaire idiopatique
+fièvre q
+fissure anale
+fistule anale
+folliculite
+fracture de fatigue
+fracture de la clavicule 
+fracture du bassin
+fracture du coccyx
+fracture du nez
+fracture du poignet
+furoncle
+gale
+gastrite
+gastro-entérite
+gastro-entérite de bébé
+gingivite
+glaucome
+goutte
+grippe
+grippe a 
+h1n1
+grippe aviaire
+grippe chez l'enfant
+grossesse ectopique
+diabète gestationnel
+hashimoto
+hémangiome
+hématome
+hémochromatose
+hémophilie
+hémorroïdes
+hépatite a
+hépatite b
+hépatite c
+hernie
+hernie discale
+hernie discale cervicale
+hernie discale lombaire
+herpès
+herpès génital
+herpès labial
+herpès ophtalmique
+herpès oculaire 
+hidrosadénite suppurée
+hiv
+hodgkin
+hydramnios
+hyperactivité chez l'enfant
+hypercholestérolémie
+hypermetropie
+hyperphagie
+hypertension artérielle
+hypertension 
+hyperthyroïdie
+hypertrophie bénigne de la prostate 
+hypocondrie
+hypotension
+hypothyroïdie
+hystérie
+impétigo
+incontinence fécale
+incontinence urinaire chez l’homme
+infarctus du myocarde
+infection à chlamydia 
+infection pulmonaire
+infection urinaire
+infection urinaire chez l’enfant
+infection vaginale
+infections urinaires
+insolation
+insuffisance cardiaque
+insuffisance rénale
+insuffisance respiratoire
+insuffisance veineuse
+intertrigo
+intolérance au gluten
+intolérance au lactose
+intoxication alimentaire
+kératite
+kératose actinique
+kleptomanie
+kyste de l’ovaire
+kyste pilonidal
+lapeyronie
+laryngite
+leucémie
+lipome 
+listériose 
+lombalgie
+lombarthrose
+luxation
+luxation de la rotule
+luxation de l’épaule
+lyme
+lymphome
+lymphome non hodgkinien
+mal des transports
+maladie auto-immune
+maladie cœliaque
+maladie de basedow
+maladie de bechterew 
+maladie de charcot 
+sclérose latérale amyotrophique
+maladie de crohn
+maladie de cushing
+maladie de dupuytren
+maladie de gougerot sjögren
+maladie de hodgkin
+maladie de lapeyronie
+maladie de lyme
+maladie de raynaud
+maladie de verneuil
+maladie des os de verre
+maladie des reins
+maladie du soda
+maladie d’alzheimer 
+maladie lupique
+maladie pieds-mains-bouche
+maladie psychosomatique
+maladies du foie
+maladies inflammatoires chroniques de l'intestin 
+mst
+mastose
+mélanome acro-lentigineux
+mélanome et cancers de la peau
+mélanome malin
+méningiomes intracrâniens
+méningite
+méningite de l'enfant
+ménopause
+ménopause précoce
+migraine
+migraine avec aura
+migraine cataméniale
+migraine ophtalmique
+molluscum contagiosum
+mononucléose infectieuse
+mucoviscidose
+mycose de l'ongle
+mycose vaginale
+mycoses
+myofasciite à macrophages
+myopathie de duchenne
+myopie
+nanisme
+narcolepsie
+neurinome de l’acoustique 
+névrose
+nodule de la thyroïde
+nymphomanie
+obésité
+occlusion intestinale
+oedeme pulmonaire 
+oligoamnios
+ongle incarné
+orchite
+oreillons
+orgelet
+orthorexie
+osgood schlatter
+ostéoporose
+otite
+otites à répétition chez l'enfant
+opk
+ovaires polykystiques
+paget
+paludisme
+panaris
+pancréatite
+paralysie faciale
+paranoïa
+parkinson
+pelade
+péricardite
+périménopause
+péritonite
+perlèche
+personnalité borderline
+pervers narcissique
+petites brûlures
+pharyngite
+phéochromocytome 
+paraphimosis
+phimosis 
+phlébite
+phobie
+phobie scolaire
+phobie sociale
+photos de mélanome
+photos de psoriasis
+pied d'athlète
+pityriasis rosé de gibert 
+pityriasis versicolor
+placenta bas
+pleurésie 
+pneumonie
+pneumothorax
+poliomyélite
+polyarthrite rhumatoïde
+polychondrite chronique atrophiante 
+polypes intestinaux
+poux
+pré-éclampsie
+pré-ménopause
+presbyacousie
+presbytie
+cancer
+procrastination
+psoriasis
+psoriasis de l'ongle
+psychose
+psychose maniaco-dépressive
+puberté précoce
+purpura 
+pyélonéphrite
+rage
+raynaud
+rectocolite hémorragique 
+reflux gastro-oesophagien 
+rétinopathie diabétique
+rhinite
+rhinite allergique
+rhizarthrose 
+rhume
+rhume de bébé
+rhume de hanche
+rhume des foins
+rosacée
+roséole
+rougeole
+rubéole
+salmonellose
+salpingite
+sarcoïdose
+scarlatine
+schizophrénie
+sciatique
+sclérose en plaques 
+sclérose latérale amyotrophique
+scoliose
+sida
+sinus pilonidal surinfecté
+sinusite
+sinusite chronique
+somnambulisme
+spasmophilie
+spondylarthrite
+stéatohépatite non-alcoolique
+strabisme et amblyopie
+suicide
+surdité
+surmonter le baby-blues
+syncope
+syndrome d'asperger
+syndrome de diogène
+syndrome de gougerot sjogren
+côlon irritable
+syndrome de münchhausen
+syndrome de rett
+syndrome des jambes sans repos
+syndrome du bébé secoué 
+syndrome du canal carpien
+syndrome du choc toxique
+syndrome d’ehlers danlos 
+syndrome pieds-mains-bouche
+syphilis
+tda
+h chez l’adulte 
+tdah
+teigne
+tendinite
+tendinite du coude
+tennis elbow
+tétanos
+thrombose veineuse
+thyroïdite
+tic
+tique
+torsion testiculaire
+toxémie gravidique
+toxicomanie
+toxoplasmose et grossesse
+trachéite 
+trichotillomanie
+trisomie 18
+trisomie 21
+bipolaire
+trouble du sommeil
+ted
+toc
+troubles du rythme cardiaque
+tuberculose
+tuberculose osseuse
+tumeur
+sla
+ulcère 
+urticaire
+vaginite
+varice
+varicelle
+variole
+verneuil
+verrue
+verrues plantaires
+vitiligo
+vulvite
+zika
+zona
